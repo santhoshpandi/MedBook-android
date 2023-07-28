@@ -154,9 +154,9 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="48dp"
-        android:layout_height="21dp"
-        android:textSize="22dp"
+        android:layout_width="45dp"
+        android:layout_height="36dp"
+        android:textSize="21dp"
         android:textColor="@color/white"
         android:gravity="center"
         android:textStyle="bold"
