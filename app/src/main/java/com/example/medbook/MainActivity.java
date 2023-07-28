@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
             cnt+=1;
             t.setText(String.valueOf(cnt));
             register.put(time,selectedDate);
-           // na.setText("");ph.setText("");di.setText("");date.setText("Select Date");
+            na.setText("");ph.setText("");di.setText("");date.setText("Select Date");
 
 
             Toast.makeText(getApplicationContext(), "Appointment Booked Successfully :)",Toast.LENGTH_LONG).show();
